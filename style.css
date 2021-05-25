@@ -38,8 +38,12 @@ p {
 }
 
 section {
-  max-width: 60%;
+  width: 60%;
   margin: 0 auto;
+}
+
+section section {
+  width: 100%;
 }
 
 img {
